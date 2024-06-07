@@ -1,6 +1,6 @@
 # Web-based NRCS (News Room Computer System)
 
-Welcome to the Web-based NRCS (News Room Computer System) README! This application is specifically designed to streamline the newsroom workflow, enabling reporters to submit news stories along with their attached media directly to the system. It provides functionality for editing, finalizing, and organizing news stories into rundowns for prompter display. Built using React.js, this application incorporates all the necessary features required by an NRCS system for efficient news channel operations.
+This application is specifically designed to streamline the newsroom workflow, enabling reporters to submit news stories along with their attached media directly to the system. It provides functionality for editing, finalizing, and organizing news stories into rundowns for prompter display. Built using React.js, this application incorporates all the necessary features required by an NRCS system for efficient news channel operations.
 
 ## Features
 
